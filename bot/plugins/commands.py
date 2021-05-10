@@ -94,6 +94,8 @@ async def start(bot, update):
     ],[
         InlineKeyboardButton('💡 HELP', callback_data="help"),
         InlineKeyboardButton('🔐 CLOSE', callback_data="close")
+    ],[
+        InlineKeyboardButton('OWNER', url='https://t.me/Wafikh'),
     ]]
     
     
