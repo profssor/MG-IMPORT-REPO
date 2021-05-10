@@ -93,7 +93,7 @@ async def start(bot, update):
         InlineKeyboardButton('ABOUT', callback_data="about")
     ],[
         InlineKeyboardButton('💡 HELP', callback_data="help"),
-        InlineKeyboardButton('🔐 CLOSE', callback_data='close')
+        InlineKeyboardButton('🔐 CLOSE', callback_data="close")
     ]]
     
     
