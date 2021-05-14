@@ -38,7 +38,8 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    'Developer', url="https://t.me/FayasNoushad"
+                                    'Developer', url="https://t.me/Wafikh"
+                                    'OWNER', url="https://t.me/Wafikh"
                                 )
                         ]
                     ]
@@ -57,7 +58,8 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    'Developer', url="https://t.me/FayasNoushad"
+                                    'Developer', url="https://t.me/Wafikh"
+                                    'OWNER', url="https://t.me/Wafikh"
                                 )
                         ]
                     ]
@@ -76,7 +78,8 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    'Developer', url="https://t.me/FayasNoushad"
+                                    'Developer', url="https://t.me/Wafikh"
+                                    'OWNER', url="https://t.me/Wafikh"
                                 )
                         ]
                     ]
@@ -89,7 +92,7 @@ async def start(bot, update):
         return
 
     buttons = [[
-        InlineKeyboardButton('Developer', url='https://t.me/FayasNoushad'),
+        InlineKeyboardButton('Developer', url='https://t.me/Wafikh'),
         InlineKeyboardButton('ABOUT', callback_data="about")
     ],[
         InlineKeyboardButton('💡 HELP', callback_data="help"),
